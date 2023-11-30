@@ -1,0 +1,4 @@
+﻿  Main.c
+D:\vs2019C++practise\YoutubeC\source\Test\Main.c(13,7): warning C4047: “=”:“long”与“char [13]”的间接级别不同
+D:\vs2019C++practise\YoutubeC\source\Test\Main.c(14,11): warning C4047: “=”:“char *”与“long”的间接级别不同
+  Test.vcxproj -> D:\vs2019C++practise\YoutubeC\Debug\Test.exe
